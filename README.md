@@ -3,7 +3,7 @@
 ### Aspiring developer! 
 Interest lie in various things such as music, perfumes and football; big fan of Tottenham ⚽:white_heart:
 
-Working sporadically on small projects such as my GitHub's ReadMe or any projects I scavenge on the Internet! :frog:	
+Working sporadically on small projects such as my personal website or any projects I scavenge on the Internet! :frog:	
 
 
 
