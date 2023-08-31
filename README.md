@@ -1,4 +1,4 @@
-Hello!
+Hello! :nerd_face:
 
 Aspiring developer! Interest lie in various things such as music and perfume!
 Working sporadically on small projects such as my GitHub's ReadMe!
