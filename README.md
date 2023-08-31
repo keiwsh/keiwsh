@@ -1,7 +1,7 @@
 ## Hello! :nerd_face:
 
 ### Aspiring developer! 
-Interest lie in various things such as music,perfumes and big fan of Tottenham Hotspur! :white_heart:
+Interest lie in various things such as music, perfumes and I'm big fan of Tottenham Hotspur! :white_heart:
 
 Working sporadically on small projects such as my GitHub's ReadMe or any projects I scavenge on the Internet! :frog:	
 
