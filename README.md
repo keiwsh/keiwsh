@@ -3,7 +3,7 @@
 ### Aspiring developer! 
 Interest lie in various things such as music and perfumes! :white_heart:
 
-Working sporadically on small projects such as my GitHub's ReadMe!
+Working sporadically on small projects such as my GitHub's ReadMe or any local projects I scavenge on the Internet! :frog:	
 
 
 
