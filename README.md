@@ -5,6 +5,9 @@ Interest lie in various things such as music, perfumes, football and gaming; big
 
 Working sporadically on small projects such as my personal website or any projects I scavenge on the Internet! :frog:	
 
+Initial exposure to: HTML,CSS, SQL & C++
+
+
 📍Currently: Working on my personal website & learning on Codecademy.
 
 
