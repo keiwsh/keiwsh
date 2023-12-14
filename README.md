@@ -2,6 +2,8 @@
 
 ### Aspiring developer! 
 Interest lie in various things such as music, perfumes, football and gaming; big fan of Tottenham ⚽🤍 and T1 🎮❤️
+TMI: I hold the Diamond Rank in League of Legends (Top 3% Europe)
+
 
 Working sporadically on small projects such as my personal website or any projects I scavenge on the Internet! :frog:	
 
