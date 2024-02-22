@@ -1,9 +1,9 @@
 ## Hello! :nerd_face:
 
 ### Aspiring developer! 
-Interest lie in various things such as music, perfumes, football and gaming; big fan of Tottenham ⚽🤍 and T1 🎮❤️
+Interest lie in various things such as music, perfumes, movies, football and gaming; big fan of Tottenham ⚽🤍 and T1 🎮❤️
 
-TMI: I hold the Diamond Rank in League of Legends (Top 3% Europe)
+TMI: I hold the Diamond Rank in League of Legends (Top 2.1% Worldwide) & the Ascendant Rank in Valorant (Top 1% Worldwide)
 
 
 Working sporadically on small projects such as my personal website or any projects I scavenge on the Internet! :frog:	
