@@ -23,6 +23,6 @@
   </div>
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=keiwsh&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="keiwsh's Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=keiwsh&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="300" alt="keiwsh's Stats">
   </div>
 </div>
