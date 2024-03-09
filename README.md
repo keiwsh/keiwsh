@@ -1,4 +1,7 @@
-## Hello! :nerd_face:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 ### Aspiring developer! 
 Interest lie in various things such as [music](https://www.last.fm/user/keicci), [perfumes](https://www.parfumo.com/Users/Keiciaga), [movies](https://letterboxd.com/iek7/), football and gaming; big fan of Tottenham ⚽🤍 and T1 🎮❤️
