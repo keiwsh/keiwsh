@@ -1,9 +1,14 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/3oz8xTAJIQD6JWfTUc/giphy.gif" width="450"/>
 </div>
 
 
-### Aspiring developer! 
+
+
+<div align="center">
+  <h3>Aspiring Developer!</h3>
+</div>
+
 Interest lie in various things such as [music](https://www.last.fm/user/keicci), [perfumes](https://www.parfumo.com/Users/Keiciaga), [movies](https://letterboxd.com/iek7/), football and gaming; big fan of Tottenham ⚽🤍 and T1 🎮❤️
 
 TMI: I hold the Diamond Rank in League of Legends (Top 2.1% Worldwide) & the Ascendant Rank in Valorant (Top 1% Worldwide)
