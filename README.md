@@ -14,13 +14,16 @@
 
 
   <div>
-    TMI: I hold the Diamond Rank in League of Legends (Top 2.1% Worldwide) & the Ascendant Rank in Valorant (Top 1% Worldwide)
+    TMI: I hold the Diamond Rank in League of Legends (Top 2.1% Worldwide) & the Ascendant Rank in Valorant (Top 1% Worldwide) 
   </div>
 
+  <div>‎ </div>
 
   <div>
     Currently working on: Landing Page by The Odin Project 
   </div>
+
+  <div>‎ </div>
 
   <div>
     <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hoang-khang.le&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile"></a>
