@@ -19,6 +19,10 @@
 
 
   <div>
+    Currently working on: Landing Page by The Odin Project 
+  </div>
+
+  <div>
     <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hoang-khang.le&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile"></a>
   </div>
 
