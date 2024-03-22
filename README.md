@@ -4,7 +4,7 @@
   </div>
 
   <div>
-    <h3>Aspiring Developer!</h3>
+    <h3>Computer Science Student!</h3>
   </div>
 
   <div>
