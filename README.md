@@ -8,7 +8,7 @@
   </div>
 
   <div>
-    Interest lies in various things such as <a href="https://www.last.fm/user/keicci">music</a>, <a href="https://www.parfumo.com/Users/Keiciaga">perfumes</a>, <a href="https://letterboxd.com/iek7/">movies</a>, football, and gaming; big fan of Tottenham ⚽🤍 and T1 🎮❤️
+    Interest lies in various things such as <a href="https://www.last.fm/user/keicci">music</a>, <a href="https://www.parfumo.com/Users/Keiciaga">perfumes</a>, <a href="https://letterboxd.com/iek7/">movies</a>, football, and gaming; big fan of Tottenham ⚽🤍 and T1/PRX 🎮❤️
   </div>
 
 
