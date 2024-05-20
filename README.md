@@ -14,7 +14,7 @@
 
 
   <div>
-    TMI: I hold the Diamond Rank in League of Legends (Top 2.1% Worldwide) & the Ascendant Rank in Valorant (Top 1% Worldwide) 
+    *NIX Ricer & Justin Bieber Linux user (i use arch btw) 
   </div>
 
   <div>‎ </div>
