@@ -17,7 +17,9 @@
     *NIX Ricer & Justin Bieber Linux user (i use arch btw) 
   </div>
 
-  <div>‎ </div>
+  <div>‎ 
+    Currently learning on working with Figma to integrate in my WebDev Workflow.
+  </div>
 
   <div>
     <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hoang-khang.le&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile"></a>
