@@ -8,21 +8,21 @@
   </div>
 
   <div>
-    Interest lies in various things such as <a href="https://www.last.fm/user/keicci">music</a>, <a href="https://www.parfumo.com/Users/Keiciaga">perfumes</a>, <a href="https://letterboxd.com/iek7/">movies</a>, football, and gaming; big fan of Tottenham ⚽🤍 and T1/PRX 🎮❤️
-  </div>
-
-
-
-  <div>
-    *NIX Ricer & Justin Bieber Linux user (i use arch btw) 
-  </div>
-
-  <div>‎ 
-    Currently learning on working with Figma to integrate in my WebDev Workflow.
+    Interests include a variety of things such as <a href="https://www.last.fm/user/keicci">music</a>, <a href="https://www.parfumo.com/Users/Keiciaga">perfumes</a>, <a href="https://letterboxd.com/iek7/">movies</a>, football, and gaming. Big fan of Tottenham ⚽🤍 and T1/PRX 🎮❤️
   </div>
 
   <div>
-    <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hoang-khang.le&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile"></a>
+    Currently learning to work with Figma to integrate into my WebDev workflow.
+  </div>
+
+  <div>
+    Also interested in GameDev. Currently learning Godot.
+  </div>
+
+  <div>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=hoang-khang.le&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
+    </a>
   </div>
 
   <div>
